@@ -7,7 +7,7 @@ file to make it Compatabile.
 
 Thsi is demo that you would love to check:
 
-![house of mirror](http://url/to/mirror.png)
+![house of mirror](./screenshots/mirror.png)
 
 and
 
